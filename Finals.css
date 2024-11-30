@@ -428,6 +428,7 @@ html{
 
     
 }
+
 .footer__container {
     background-color: #fff;
     padding: 5rem 0;
@@ -472,6 +473,11 @@ html{
     width: 100px;
 }
 
+.social__icons button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
 .social__logo {
     color: #1fc509;
     justify-self: flex-start;
